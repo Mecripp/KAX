@@ -6,7 +6,8 @@ Kerbal Aircraft Expansion Continued - **Unofficial** fork by Lisias
 
 * [Latest Release](https://github.com/net-lisias-kspu/KAX/releases)
 * [Source](https://github.com/net-lisias-kspu/KAX)
-* [Binaries](./Archive)
+* [History](https://github.com/net-lisias-kspu/KAX/tree/History)
+* [Change Log](./CHANGE_LOG.md)
 * Dependencies:
 	+ [Firespitter](https://github.com/net-lisias-kspu/Firespitter)
 
