@@ -2,3 +2,5 @@ Source
 .vs
 obj
 bin
+GameData
+*.userprefs
